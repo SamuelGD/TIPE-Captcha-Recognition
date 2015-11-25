@@ -1,2 +1,2 @@
-# Captcha Recognition (composed of digits only).
-School project in 2013.
+# Captcha Recognition
+Captchas composed of digits only. School project in 2013.
